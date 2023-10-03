@@ -18,7 +18,8 @@ function App() {
         >
           Learn React
         </a>
-      </header>
+      </header> */}
+      <h1>Hello Word!</h1>
     </div>
   );
 }
